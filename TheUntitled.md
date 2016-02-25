@@ -14,4 +14,4 @@ By [Derek Pierson][^LICENSE]
 ---
 
 [^LICENSE]: https://github.com/d1srupt0r/stories/blob/master/LICENSE
-            Please LCENSE see before distributing
+Please see LICENSE before distributing
