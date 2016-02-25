@@ -1,6 +1,6 @@
 THE UNTITLED
 ============
-By [Derek Pierson][^LICENSE]
+By [Derek Pierson][1]
 
 ---
 ### Chapter 1 - Land
@@ -13,5 +13,5 @@ By [Derek Pierson][^LICENSE]
 
 ---
 
-[^LICENSE]: https://github.com/d1srupt0r/stories/blob/master/LICENSE
-Please see LICENSE before distributing
+[1]: https://github.com/d1srupt0r/stories/blob/master/LICENSE
+  Please see [LICENSE][1] before distributing
